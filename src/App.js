@@ -33,7 +33,7 @@ function App() {
     name: inputName.current.value, 
     age: inputAge.current.value})
 
-console.log(data)
+
    /*  setUsers([
       ...users, 
       { id: Math.random(), 
